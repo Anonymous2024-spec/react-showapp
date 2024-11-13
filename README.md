@@ -13,7 +13,7 @@ Modular CSS - Well-structured CSS for easy customization and maintenance.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone repo
 cd your-repo-name
 Install dependencies: (Include this step if your app has dependencies, e.g., for a React app)
 
